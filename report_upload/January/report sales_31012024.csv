@@ -1,0 +1,16 @@
+;City;State;Sales;Quantity;Discount;Profit
+0;Naperville;Illinois;11.784;3;0.2;4.2717
+1;Naperville;Illinois;272.736;3;0.2;-64.7748
+2;Naperville;Illinois;3.54;2;0.8;-5.487
+3;Henderson;Kentucky;2573.82;9;0.0;746.4078
+4;Henderson;Kentucky;609.98;2;0.0;274.491
+5;Henderson;Kentucky;5.48;2;0.0;1.4796
+6;Henderson;Kentucky;391.98;2;0.0;113.6742
+7;Henderson;Kentucky;755.96;4;0.0;204.1092
+8;Henderson;Kentucky;31.12;4;0.0;0.3112
+9;Henderson;Kentucky;6.54;1;0.0;3.0084
+10;Huntsville;Texas;76.728;3;0.6;-53.7096
+11;Huntsville;Texas;10.43;7;0.8;-18.2525
+12;Laredo;Texas;9.344;2;0.2;1.168
+13;Laredo;Texas;31.2;3;0.2;9.75
+14;Houston;Texas;16.448;2;0.2;5.5512
